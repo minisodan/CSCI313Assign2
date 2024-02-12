@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+button{
+    display: block;
+    margin:300px auto;
+}
