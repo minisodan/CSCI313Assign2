@@ -7,3 +7,9 @@ button{
     display: block;
     margin:300px auto;
 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
